@@ -70,8 +70,6 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
-├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
 
@@ -82,4 +80,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Matias Alvarez**, I’m a 
+I'm **Matías Álvarez**, passionate about data engineering and analytics. Through this guided project, I immersed myself in the world of Data Warehouse, facing real challenges that strengthened my skills in data integration, cleansing and transformation. I implemented a modern architecture based on Bronze, Silver and Gold layers, which allowed me to develop robust analytical solutions and generate strategic insights. This project not only evidences my technical ability, but also my constant desire to learn and grow in the exciting field of technology and analytics.
